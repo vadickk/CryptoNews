@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">It News</string>
+    <string name="news">News</string>
+    <string name="it_news">It News</string>
+    <string name="it_news_finish">It News Finish</string>
+    <string name="back">It News Finish</string>
+    <string name="banner">Article banner</string>
+    <string name="unknown">Unknown</string>
+    <string name="not_available">Not available</string>
+    <string name="go_to_article">Go to article</string>
+    <string name="next">Next</string>
+    <string name="author">Author</string>
+    <string name="article_url">Article Url\n</string>
+    <string name="time">Time\n</string>
+
+</resources>

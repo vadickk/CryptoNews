@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585625000999",
+    "project_id": "cryptonews-a3eaa",
+    "storage_bucket": "cryptonews-a3eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585625000999:android:139e5bcd58c6431a768202",
+        "android_client_info": {
+          "package_name": "com.cicryptosselscs.cryptonews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjAOPPmadpbbQCgpDd_7NdVd_x2ojbfyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
